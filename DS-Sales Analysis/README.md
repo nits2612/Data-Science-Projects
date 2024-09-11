@@ -32,5 +32,5 @@ I performed the following steps as part of data analysis to come up with conclus
 
 ## Tech Stack
 
-Python, Pandas, Numpy, Matplotlib, Seaborn, Jupyter Notebook.
+Python, Pandas, Numpy, Matplotlib, Seaborn, Sci-kit Learn, Jupyter Notebook.
 
